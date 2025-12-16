@@ -17,7 +17,18 @@ print(name + "!!!")
 
 ########################################################################
 # Task 1:
+for count in range(10):
+    print("hello")
 
+for letter in "g.dragon":
+    print(letter)
+
+name = "Jovahn"
+for letter in name:
+    print("Give me a " + letter + "!")
+
+print("Who is the best!")
+print(name + "!!!")           
 
 
 ########################################################################
