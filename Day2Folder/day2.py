@@ -33,7 +33,7 @@ for count in range(1, 11):
 for count in range(5, 33, 5):
     print(count)
 
-for count in range(50, -1, -1):
+for count in range(50, 0, -1):
     print(count)
 
 
