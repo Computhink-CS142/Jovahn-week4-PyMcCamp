@@ -5,6 +5,9 @@ print("hello from day2")
 for count in range(10):
     print("hello")
 
+for letter in "g.dragon":
+        
+
 ########################################################################
 # Task 1:
 
