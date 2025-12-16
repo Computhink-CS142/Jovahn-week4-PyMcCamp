@@ -2,6 +2,10 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day2")
 
+
+for count in range(10):
+    print
+
 ########################################################################
 # Task 1:
 
