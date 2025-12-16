@@ -69,5 +69,9 @@ def multiplication(num1, num2):
     print(num1*num2)
 
 multiplication(12, 9)
+
+
+def division(num1, num2):
+    
 ########################################################################
 # Additional exercises:
