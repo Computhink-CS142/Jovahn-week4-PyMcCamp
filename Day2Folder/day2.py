@@ -4,7 +4,7 @@ print("hello from day2")
 
 
 for count in range(10):
-    print
+    print("hello")
 
 ########################################################################
 # Task 1:
