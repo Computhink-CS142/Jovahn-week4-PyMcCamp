@@ -10,7 +10,7 @@ for letter in "g.dragon":
 
 name = "ADAM"
 for letter in name:
-    print        
+    print(Give)        
 
 ########################################################################
 # Task 1:
