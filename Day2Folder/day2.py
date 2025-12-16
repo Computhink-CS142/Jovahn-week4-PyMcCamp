@@ -30,7 +30,7 @@ print(name + "!!!")
 for count in range(1, 11):
     print(count)
 
-for count in range(2, 101, 5):
+for count in range(2, 101, 2):
     print(count)
 
 for count in range(50, 1, -1):
