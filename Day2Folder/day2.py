@@ -31,7 +31,8 @@ for count in range(1, 11):
     print(count)
 
 for count in range(5, 32, 5):
-    print(coun)
+    print(count)
+    
 
 
 ########################################################################
