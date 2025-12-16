@@ -6,7 +6,9 @@ for count in range(10):
     print("hello")
 
 for letter in "g.dragon":
-    print(letter)    
+    print(letter)
+    
+        
 
 ########################################################################
 # Task 1:
