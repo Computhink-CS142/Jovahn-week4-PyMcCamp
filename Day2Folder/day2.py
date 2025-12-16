@@ -27,7 +27,7 @@ print(name + "!!!")
 
 ########################################################################
 # Task 3:
-for count in range(1, 11):
+for count in range(1, 12):
     print(count)
 
 for count in range(5, 32, 5):
