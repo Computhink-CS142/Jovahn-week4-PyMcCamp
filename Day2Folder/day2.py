@@ -3,7 +3,7 @@
 print("hello from day2")
 
 
-for count in range(10):
+for count in range(1000):
     print("hello")
 
 ########################################################################
