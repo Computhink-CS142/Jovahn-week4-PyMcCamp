@@ -62,8 +62,12 @@ intro("Betty")
 
 ########################################################################
 # Task 7:
+def addition (num1, num2):
+    print(num1 + num2)
 
+def multiplication(num1, num2):
+    print(num1*num2)
 
-
+multiplication(12, 9)
 ########################################################################
 # Additional exercises:
