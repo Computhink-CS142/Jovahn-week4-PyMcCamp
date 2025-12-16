@@ -8,7 +8,7 @@ for count in range(10):
 for letter in "g.dragon":
     print(letter)
 
-name = "ADAM"
+name = "Jovahn"
 for letter in name:
     print("Give me a" + "!")
 
