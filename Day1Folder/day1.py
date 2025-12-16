@@ -74,6 +74,6 @@ multiplication(12, 9)
 def division(num1, num2):
     print(num1/num2)
 
-division    
+division(30, 3)    
 ########################################################################
 # Additional exercises:
