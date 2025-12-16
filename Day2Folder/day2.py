@@ -13,7 +13,7 @@ for letter in name:
     print("Give me a" + "!")
 
 print("Who is the best!")
-print(Adam + "")            
+print(Jovahn + "!!!")            
 
 ########################################################################
 # Task 1:
