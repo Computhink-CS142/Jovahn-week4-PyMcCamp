@@ -4,7 +4,7 @@
 ########################################################################
 # Task 1:
 
-Jovahn = input("What is your name?")
+yourname = input("What is your name?")
 
 print("Hello Dave, give me your money") # type: ignore
 
