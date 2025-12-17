@@ -27,7 +27,7 @@ num1 = input("what is the first number?")
 num2 = input("what is the second number?")
 
 
-answer = int
+answer = int(num1)
 
 ########################################################################
 # Task 4:
