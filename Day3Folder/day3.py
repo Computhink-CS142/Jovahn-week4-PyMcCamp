@@ -6,7 +6,7 @@
 
 Jovahn = input("What is your name?")
 
-print("Hello," + Dave, )
+print("Hello," + Dave, give me your money) # type: ignore
 
 ########################################################################
 # Task 2:
