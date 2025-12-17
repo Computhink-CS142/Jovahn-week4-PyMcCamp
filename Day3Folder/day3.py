@@ -60,7 +60,7 @@ if legal_age == ask:
     print("You may vote")
 
 else:
-    print("You may not ")
+    print("You may not vote")
 
 
 ########################################################################
