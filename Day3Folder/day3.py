@@ -6,7 +6,7 @@
 
 yourname = input("What is your name?")
 
-print(title + yourname, "orders Dave, give me your money")
+print(title + yourname, "orders the dog to stand, give me your money")
  # type: ignore
 
 
