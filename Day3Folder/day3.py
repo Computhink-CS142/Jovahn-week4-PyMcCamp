@@ -41,13 +41,20 @@ print("the answer is", answer)
 ########################################################################
 # Task 5:
 hidden_password = "passme"
-guess = input("do you know my password?")
+is_correct = False
+for count in range(3):
+   guess = input("do you know my password?")
 
-if hidden_password == guess:
+   if hidden_password == guess:
     print("please come in")
+    is_correct = True 
+    break
 else:
-    print("go away or I will call the police")
+    print("it's okay, try again!")
 
+if is_correct == False:
+    print("your account is locked. I have recorded your face on camera")
+    
 
 
 
