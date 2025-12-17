@@ -5,7 +5,7 @@
 # Task 1:
 
 yourname = input("What is your name?")
-title = input("")
+title = input("What is your title?")
 print(title, yourname, "orders the peasents to", task)
  # type: ignore
 
