@@ -27,7 +27,7 @@ num1 = input("what is the first number?")
 num2 = input("what is the second number?")
 #conversion
 answer = int(num1) * int(num2)
-print("the answer is",)
+print("the answer is", answer)
 
 
 ########################################################################
