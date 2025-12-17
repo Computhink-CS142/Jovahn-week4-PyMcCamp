@@ -57,7 +57,9 @@ legal_agetovote = 21
 ask = input("Are you 21 years old?")
 
 if legal_age == ask:
-    print("You may not vote")
+    print("You may vote")
+
+
 
 
 ########################################################################
