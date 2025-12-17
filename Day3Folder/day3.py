@@ -9,7 +9,7 @@ yourname = input("What is your name?")
 print("Hello Dave, give me your money")
  # type: ignore
 
- 
+print
 
 ########################################################################
 # Task 2:
