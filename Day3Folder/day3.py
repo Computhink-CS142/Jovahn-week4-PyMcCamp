@@ -23,6 +23,8 @@ print(title, yourname, "orders the peasents to", task)
 
 #calculator
 
+num1
+num2
 
 ########################################################################
 # Task 4:
