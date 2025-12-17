@@ -7,7 +7,7 @@ print("hello from day3")
 
 yourname = input("What is your name?")
 
-print("Hello")
+print("Hello," + yourname)
 
 ########################################################################
 # Task 2:
