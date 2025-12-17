@@ -4,7 +4,7 @@
 ########################################################################
 # Task 1:
 
-yourname = input("What is your name?")
+Jovahn = input("What is your name?")
 
 print("Hello," + Jovahn)
 
