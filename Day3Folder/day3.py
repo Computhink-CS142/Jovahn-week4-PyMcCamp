@@ -6,7 +6,7 @@
 
 Jovahn = input("What is your name?")
 
-print("Hello," + Jovahn,)
+print("Hello," + Jovahn)
 
 ########################################################################
 # Task 2:
