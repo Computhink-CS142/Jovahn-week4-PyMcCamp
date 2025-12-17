@@ -6,7 +6,10 @@
 
 yourname = input("What is your name?")
 
-print("Hello Dave, give me your money") # type: ignore
+print("Hello Dave, give me your money")
+ # type: ignore
+
+ 
 
 ########################################################################
 # Task 2:
