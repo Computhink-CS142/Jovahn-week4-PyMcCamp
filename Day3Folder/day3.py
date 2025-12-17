@@ -4,6 +4,9 @@
 ########################################################################
 # Task 1:
 
+from sympy import ask
+
+
 yourname = input("What is your name?")
 title = input("What is your title?")
 task = input("What is the task")
@@ -50,7 +53,8 @@ else:
 
 
 legal_age = 21
-    
+
+ask = input 
 
 
 ########################################################################
