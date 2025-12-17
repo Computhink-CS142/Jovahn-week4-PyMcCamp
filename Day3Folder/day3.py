@@ -23,7 +23,7 @@ print(title, yourname, "orders the peasents to", task)
 
 #calculator
 
-num1 = input("what is the first")
+num1 = input("what is the first number")
 num2
 
 ########################################################################
