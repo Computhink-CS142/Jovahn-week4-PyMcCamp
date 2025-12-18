@@ -17,6 +17,9 @@ question = "what dp you call a deer with no eyes?"
 hidden_answer = "no idea"
 reply = ""
 
+while reply!= hidden_answer:
+    reply
+
 
 
 ########################################################################
