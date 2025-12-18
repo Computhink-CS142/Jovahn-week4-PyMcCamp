@@ -18,7 +18,7 @@ hidden_answer = "no idea"
 reply = ""
 
 while reply!= hidden_answer:
-    reply
+    reply = input
 
 
 
