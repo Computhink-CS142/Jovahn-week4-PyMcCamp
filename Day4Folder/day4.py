@@ -5,6 +5,7 @@
 # Task 1:
 
 import random
+print(random)
 
 
 
