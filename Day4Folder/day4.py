@@ -15,10 +15,13 @@ for count in range(8):
 
 question = "what dp you call a deer with no eyes?"
 hidden_answer = "no idea"
-reply = ""
+reply = "no idea"
 
 while reply!= hidden_answer:
-    reply = input
+    reply = input(question)
+    if reply == hidden_answer:
+        print
+
 
 
 
