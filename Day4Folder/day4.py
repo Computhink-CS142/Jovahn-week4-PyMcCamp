@@ -15,7 +15,7 @@ for count in range(8):
 
 question = "what dp you call a deer with no eyes?"
 hidden_answer = "no idea"
-reply = ""
+reply = "no"
 
 while reply!= hidden_answer:
     reply = input(question)
