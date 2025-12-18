@@ -5,7 +5,7 @@
 # Task 1:
 
 import random
-print(random)
+print(random.randit)
 
 
 
