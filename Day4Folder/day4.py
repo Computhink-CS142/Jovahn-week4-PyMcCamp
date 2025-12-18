@@ -14,7 +14,7 @@ for count in range(8):
 # Task 2:
 
 question = "what dp you call a deer with no eyes?"
-hidden
+hidden_answer = 
 
 
 
